@@ -1,6 +1,8 @@
-### Hi there 👋 
+### Hi, I'm Shenyi 👋
 
-- 🌱 Working as Associate Software Engineer for one year
+I am: 
+
+- 🌱 Working as an Associate Software Engineer at Coles Group
 - :speedboat: Planning to learn about Web 3 technologies
 - :cactus: Extremely intersted in marketing and small business
 
