@@ -6,27 +6,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
+![Java](https://a11ybadges.com/badge?logo=java) ![Python](https://a11ybadges.com/badge?logo=python) ![Terraform](https://a11ybadges.com/badge?logo=terraform) ![Spring](https://a11ybadges.com/badge?logo=spring) ![Spring Boot](https://a11ybadges.com/badge?logo=springboot)![MySQL](https://a11ybadges.com/badge?logo=mysql) ![Redis](https://a11ybadges.com/badge?logo=redis) ![MongoDB](https://a11ybadges.com/badge?logo=mongodb) 
 
-![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
-
-![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg)
-
-![Spring](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)
-
-![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)
-
-![Redis](https://www.vectorlogo.zone/logos/redis/redis-ar21.svg)
-
-![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
-
-![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg)
-
-![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)
-
-![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg)
-
-![ArgoCD](https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg)
-
-![Maven](https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png)
-
+![Kubernetes](https://a11ybadges.com/badge?logo=kubernetes) ![Docker](https://a11ybadges.com/badge?logo=docker) ![Azure Pipelines](https://a11ybadges.com/badge?logo=azurepipelines) ![Apache Maven](https://a11ybadges.com/badge?logo=apachemaven) ![Microsoft Azure](https://a11ybadges.com/badge?logo=microsoftazure) 
