@@ -2,9 +2,8 @@
 
 I am: 
 
-- 🌱 Working as an Associate Software Engineer at Coles Group
-- :speedboat: Planning to learn about Web 3 technologies
-- :cactus: Extremely intersted in marketing and small business
+- 🌱 Working as a Site Reliability Engineer at TikTok
+- :speedboat: Focusing on Enterprise AI Integration & Investment
 
 ### 🛠 &nbsp;Tech Stack
 
